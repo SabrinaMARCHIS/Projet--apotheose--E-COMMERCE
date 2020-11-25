@@ -1,4 +1,4 @@
-# Projet-Ecommerce de vente en ligne de fruits, legumes, oeufs, fromages, epicerie, jus de fruits destinés aux professionnels de la restauration (ou autres) et aux particuliers.
+# Projet-Ecommerce de vente en ligne de fruits, legumes, oeufs, fromages, épicerie, jus de fruits destinés aux professionnels de la restauration (ou autres) et aux particuliers.
 
 Ce site à pour vocation d'être le trait d'union avec les producteurs de notre région Provence-Apes-Côte-d'Azur, les professionnels de la restauration et les particuliers. Nous sélectionnons les meilleurs fruits et légumes chez nos producteurs livrables en drive ou à domicile.
 
