@@ -3,7 +3,7 @@
 Ce site à pour vocation d'être le trait d'union avec les producteurs de notre région Provence-Apes-Côte-d'Azur, les professionnels de la restauration et les particuliers. Nous sélectionnons les meilleurs fruits et légumes chez nos producteurs livrables en drive ou à domicile.
 
 # Présentation de la création du projet en diaporamas
-    Voir dans le dossier 'Maquettes Graphiques en fichiers PDF" > "diapos-Projet_presentation"
+    Voir dans le dossier 'Maquettes Graphiques en fichier PDF" > "diapos-Projet_presentation"
 
 # La palette de couleurs :
     gris foncé           #3c3c3b
