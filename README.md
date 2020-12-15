@@ -1,22 +1,28 @@
-# Projet-Ecommerce de vente en ligne de fruits, legumes, oeufs, fromages, épicerie, jus de fruits. Ces produits sont destinés aux professionnels de la restauration (ou autres) et aux particuliers.
+# Projet-Ecommerce de vente en ligne de fruits, legumes, oeufs, fromages, épicerie, jus de fruits. 
+## Ces produits sont destinés aux professionnels de la restauration (ou autres) et aux particuliers.
 
-Ce site à pour vocation d'être le trait d'union avec les producteurs de notre région Provence-Apes-Côte-d'Azur, les professionnels de la restauration et les particuliers. Nous sélectionnons les meilleurs fruits et légumes chez nos producteurs livrables en drive ou à domicile.
+*Ce site à pour vocation d'être le trait d'union avec les producteurs de notre région Provence-Apes-Côte-d'Azur, les professionnels de la restauration et les particuliers. Nous sélectionnons les meilleurs fruits et légumes chez nos producteurs livrables en drive ou à domicile.*
 
-# Présentation de la création du projet en diaporamas
+## Le projet en diapos
     Voir dans le dossier 'Maquettes Graphiques en fichier PDF" > "diapos-Projet_presentation"
 
-# La palette de couleurs :
-    gris foncé           #3c3c3b
-    gris très très clair #918c87
-    gris clair           #878787
-    vert                 #95c11f
-    jaune                #ffde00
+ ## Les couleurs
 
-# Les typographies
+| Color name | Color code |
+|--|--|--|
+| dark grey |  #3c3c3b | 
+| very light gray |   #918c87 |
+| light gray |   #878787 |
+| green |   #95c11f | 
+| yellow |    #ffde00 | 
+| [/categories.json](https://benoclock.github.io/S07-todolist/categories.json) | GET |
+
+
+## Les typographies
     Ubuntu
     CCSignLanguage
 
-# Les images / icônes / logo
+## Les images / icônes / logo
     Voir les dossiers "images" ou "icons-logo"
     
 
