@@ -8,13 +8,12 @@
  ## Les couleurs
 
 | Color name | Color code |
-|--|--|--|
+|------------|------------|
 | dark grey |  #3c3c3b | 
 | very light gray |   #918c87 |
 | light gray |   #878787 |
 | green |   #95c11f | 
 | yellow |    #ffde00 | 
-| [/categories.json](https://benoclock.github.io/S07-todolist/categories.json) | GET |
 
 
 ## Les typographies
