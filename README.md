@@ -1,10 +1,9 @@
 # Projet-Ecommerce de vente en ligne de fruits, legumes, oeufs, fromages, épicerie, jus de fruits. 
 ## Ces produits sont destinés aux professionnels de la restauration (ou autres) et aux particuliers.
 
-*Ce site à pour vocation d'être le trait d'union avec les producteurs de notre région Provence-Apes-Côte-d'Azur, les professionnels de la restauration et les particuliers. Nous sélectionnons les meilleurs fruits et légumes chez nos producteurs livrables en drive ou à domicile.*
+*Ce site à pour vocation d'être le trait d'union avec les producteurs de notre région Provence-Apes-Côte-d'Azur, les professionnels de la restauration et les particuliers. Nous sélectionnons les meilleurs fruits et légumes chez nos producteurs récupérables à l'entrepôt ou livrables à domicile (il n'y a pas de magasin).*
+> Nous proposons également des fruits exotiques provenant de producteurs du Brésil.
 
-## Le projet en diapos
-    Voir dans le dossier 'Maquettes Graphiques en fichier PDF" > "diapos-Projet_presentation"
 
  ## Les couleurs
 
